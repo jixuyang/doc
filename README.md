@@ -1,0 +1,2 @@
+# doc
+daily technology description
